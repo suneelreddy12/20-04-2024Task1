@@ -17,6 +17,5 @@ let numbers = [1, 2, 3, 4, 5];
 # Objects vs Primitive Values:
 It's essential to distinguish between objects and primitive values (such as numbers, strings, and booleans) in JavaScript:
 
-Objects: Mutable and passed by reference. Changes to an object's properties affect all references to that object.
-Primitive Values: Immutable and passed by value. Assigning a primitive value to another variable creates a copy of the value, and changes to one variable do not affect the other.
-
+- Objects: Mutable and passed by reference. Changes to an object's properties affect all references to that object.
+- Primitive Values: Immutable and passed by value. Assigning a primitive value to another variable creates a copy of the value, and changes to one variable do not affect the other.
